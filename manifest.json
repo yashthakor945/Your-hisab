@@ -1,0 +1,9 @@
+{
+  "name": "Hisab Kitab",
+  "short_name": "Hisab Kitab",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fc",
+  "theme_color": "#2457d6",
+  "description": "Har kaam ka hisab, ek jagah."
+}
